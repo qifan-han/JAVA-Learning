@@ -1,6 +1,7 @@
 class Droid {
  
   //This is a simple Droid object.
+ 
   int batteryLevel;
   
   public Droid() {
